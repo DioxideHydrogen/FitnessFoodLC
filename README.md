@@ -1,5 +1,5 @@
-# Dia 1 (19/01)
+# API Food LC
 
-- Criação dos primeiros aquivos
-- Ajustes no config/database.php para conexão mysql
-- Criação de novas variáveis de conexão com o banco de dados
+API de ifnromações nutricionais de alimentos com base da Open Food Facts
+
+Instalar: composer update
